@@ -1,5 +1,7 @@
 # Diffusion and Flow Models Research
 
+This repository curates research on Diffusion and Flow-based models, offering a structured overview of key concepts, advancements, and applications in generative AI. It covers diverse topics from inference acceleration and model optimization to image editing and personalized generation. Contributions are welcome to keep this resource comprehensive and up-to-date.
+
 ## Contents
 
 - [Inference Acceleration](#inference-acceleration)
@@ -14,8 +16,8 @@
 - [Personalized - ID Preserving Image Generation](#personalized---id-preserving-image-generation)
 - [Object Based Generation](#object-based-generation)
 
-## Inference Acceleration
-<!-- Add relevant papers/notes on techniques to speed up model inference -->
+## ⚡️ Inference Acceleration
+
 **Training-free Diffusion Acceleration with Bottleneck Sampling** \
 [[Paper](https://arxiv.org/pdf/2503.18940)]
 [[Project Page](https://tyfeld.github.io/BottleneckSampling.github.io/)]
@@ -25,32 +27,31 @@
 
 
 
-## Quantization
-<!-- Add relevant papers/notes on model quantization for efficiency -->
+## 🤏 Quantization
 
-## Optimization
-<!-- Add relevant papers/notes on training and model optimization techniques -->
 
-## Model Distillation
-<!-- Add relevant papers/notes on knowledge distillation for diffusion/flow models -->
+## ⚙️ Optimization
 
-## Evaluation Metrics
-<!-- Add relevant papers/notes on metrics for evaluating generative models -->
 
-## Latent Domain Applications
-<!-- Add relevant papers/notes on applications leveraging the latent space -->
+## 🧪 Model Distillation
 
-## Flow Matching Concepts
-<!-- Add relevant papers/notes on the theory and application of flow matching -->
 
-## Diffusion Concepts
-<!-- Add relevant papers/notes on the foundational concepts of diffusion models -->
+## 📊 Evaluation Metrics
 
-## Image Editing
-<!-- Add relevant papers/notes on image editing techniques using diffusion/flow models -->
 
-## Personalized - ID Preserving Image Generation
-<!-- Add relevant papers/notes on generating images that preserve identity -->
+## ✨ Latent Domain Applications
 
-## Object Based Generation
-<!-- Add relevant papers/notes on generating or manipulating specific objects in images -->
+
+## 🌊 Flow Matching Concepts
+
+
+## 🌀 Diffusion Concepts
+
+
+## 🎨 Image Editing
+
+
+## 👤 Personalized - ID Preserving Image Generation
+
+
+## 📦 Object Based Generation
