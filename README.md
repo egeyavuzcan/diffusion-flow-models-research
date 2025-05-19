@@ -26,11 +26,33 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Paper](https://arxiv.org/pdf/2503.09242)]
 
 
+**SVDQUANT: ABSORBING OUTLIERS BY LOW-RANK COMPONENTS FOR 4-BIT DIFFUSION MODELS** \
+[[Paper](https://arxiv.org/pdf/2411.05007)]
+
+
 
 ## 🤏 Quantization
 
+**SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION** \
+[[Paper](https://arxiv.org/pdf/2410.02367)]
+[[Project Page](https://github.com/thu-ml/SageAttention)]
 
-## ⚙️ Optimization
+**SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization** \
+[[Paper](https://arxiv.org/pdf/2411.10958)]
+
+
+## ⚙️ Model Optimization
+
+**FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness** \
+[[Paper](https://arxiv.org/pdf/2205.14135)]
+[[Project Page](https://github.com/Dao-AILab/flash-attention.git)]
+
+**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning** \
+[[Paper](https://tridao.me/publications/flash2/flash2.pdf)]
+
+**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision** \
+[[Paper](https://tridao.me/publications/flash3/flash3.pdf)]
+
 
 
 ## 🧪 Model Distillation
