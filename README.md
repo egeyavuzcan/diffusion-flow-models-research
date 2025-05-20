@@ -66,6 +66,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 
 ## 🌊 Flow Matching Concepts
 
+**FLOW MATCHING FOR GENERATIVE MODELING** \
+[[Paper](https://arxiv.org/pdf/2210.02747)]
+
 
 ## 🌀 Diffusion Concepts
 
@@ -75,5 +78,8 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 
 ## 👤 Personalized - ID Preserving Image Generation
 
+**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity** \
+[[Paper](https://arxiv.org/pdf/2503.16418)]
+[[Project Page](https://bytedance.github.io/InfiniteYou/)]
 
 ## 📦 Object Based Generation
