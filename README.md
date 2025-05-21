@@ -57,7 +57,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 
 ## 🧪 Model Distillation
 
-
+**SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation** \
+[[Paper](https://arxiv.org/pdf/2503.09641)]
+[[Project Page](https://github.com/NVlabs/Sana)]
 ## 📊 Evaluation Metrics
 
 
