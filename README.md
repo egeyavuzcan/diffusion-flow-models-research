@@ -29,7 +29,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 **SVDQUANT: ABSORBING OUTLIERS BY LOW-RANK COMPONENTS FOR 4-BIT DIFFUSION MODELS** \
 [[Paper](https://arxiv.org/pdf/2411.05007)]
 
-
+**From Reusing to Forecasting: Accelerating Diffusion Models with TaylorSeers** \
+[[Paper](https://arxiv.org/pdf/2503.06923)]
+[[Project Page](https://taylorseer.github.io/TaylorSeer/)]
 
 ## 🤏 Quantization
 
