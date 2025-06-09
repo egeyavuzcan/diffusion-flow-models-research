@@ -86,4 +86,8 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Paper](https://arxiv.org/pdf/2503.16418)]
 [[Project Page](https://bytedance.github.io/InfiniteYou/)]
 
+**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers** \
+[[Paper](https://arxiv.org/pdf/2505.23758)]
+[[Project Page](https://lorashop.github.io)]
+
 ## 📦 Object Based Generation
