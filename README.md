@@ -8,7 +8,6 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 - [Quantization](#quantization)
 - [Optimization](#optimization)
 - [Model Distillation](#model-distillation)
-- [Evaluation Metrics](#evaluation-metrics)
 - [Latent Domain Applications](#latent-domain-applications)
 - [Flow Matching Concepts](#flow-matching-concepts)
 - [Diffusion Concepts](#diffusion-concepts)
@@ -62,7 +61,6 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 **SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation** \
 [[Paper](https://arxiv.org/pdf/2503.09641)]
 [[Project Page](https://github.com/NVlabs/Sana)]
-## 📊 Evaluation Metrics
 
 
 ## ✨ Latent Domain Applications
@@ -83,6 +81,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Paper](https://arxiv.org/pdf/2412.07517)]
 [[Project Page](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)]
 
+**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models** \
+[[Paper](https://arxiv.org/pdf/2412.08629)]
+[[Project Page](https://matankleiner.github.io/flowedit/)]
 
 
 
@@ -95,5 +96,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 **LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers** \
 [[Paper](https://arxiv.org/pdf/2505.23758)]
 [[Project Page](https://lorashop.github.io)]
+
+**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers** \
+[[Paper](https://arxiv.org/pdf/2412.096118)]
+
 
 ## 📦 Object Based Generation
