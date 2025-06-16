@@ -79,6 +79,12 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 
 ## 🎨 Image Editing
 
+**FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing** \
+[[Paper](https://arxiv.org/pdf/2412.07517)]
+[[Project Page](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)]
+
+
+
 
 ## 👤 Personalized - ID Preserving Image Generation
 
