@@ -13,7 +13,6 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 - [Diffusion Concepts](#diffusion-concepts)
 - [Image Editing](#image-editing)
 - [Personalized - ID Preserving Image Generation](#personalized---id-preserving-image-generation)
-- [Object Based Generation](#object-based-generation)
 
 ## ⚡️ Inference Acceleration
 
@@ -101,4 +100,3 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Paper](https://arxiv.org/pdf/2412.096118)]
 
 
-## 📦 Object Based Generation
