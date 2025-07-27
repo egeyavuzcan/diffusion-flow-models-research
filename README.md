@@ -84,6 +84,10 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Paper](https://arxiv.org/pdf/2412.08629)]
 [[Project Page](https://matankleiner.github.io/flowedit/)]
 
+**HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer** \
+[[Paper](https://arxiv.org/pdf/2505.22705)]
+[[Project Page](https://github.com/HiDream-ai/HiDream-E1)]
+
 
 
 ## 👤 Personalized - ID Preserving Image Generation
