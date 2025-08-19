@@ -89,6 +89,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Project Page](https://github.com/HiDream-ai/HiDream-E1)]
 
 
+**Qwen-Image** \
+[[Paper](https://arxiv.org/pdf/2508.02324)]
+[[Project Page](https://github.com/QwenLM/Qwen-Image)]
 
 ## 👤 Personalized - ID Preserving Image Generation
 
