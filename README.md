@@ -61,6 +61,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Paper](https://arxiv.org/pdf/2503.09641)]
 [[Project Page](https://github.com/NVlabs/Sana)]
 
+**One-step Diffusion with Distribution Matching Distillation** \
+[[Paper](https://arxiv.org/pdf/2311.18828)]
+
 
 ## ✨ Latent Domain Applications
 
