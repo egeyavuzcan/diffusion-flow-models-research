@@ -67,6 +67,12 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 **Improved Distribution Matching Distillation for Fast Image Synthesis** \
 [[Paper](https://arxiv.org/pdf/2405.14867)]
 
+
+**DECOUPLED DMD: CFG AUGMENTATION AS THE SPEAR, DISTRIBUTION MATCHING AS THE SHIELD** \
+[[Paper](https://arxiv.org/pdf/2511.22677)]
+[[Project Page](https://github.com/Tongyi-MAI/Z-Image)]
+
+
 ## ✨ Latent Domain Applications
 
 
