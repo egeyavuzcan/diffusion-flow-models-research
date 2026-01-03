@@ -64,6 +64,8 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 **One-step Diffusion with Distribution Matching Distillation** \
 [[Paper](https://arxiv.org/pdf/2311.18828)]
 
+**Improved Distribution Matching Distillation for Fast Image Synthesis** \
+[[Paper](https://arxiv.org/pdf/2405.14867)]
 
 ## ✨ Latent Domain Applications
 
