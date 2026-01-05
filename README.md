@@ -72,6 +72,9 @@ This repository curates research on Diffusion and Flow-based models, offering a 
 [[Paper](https://arxiv.org/pdf/2511.22677)]
 [[Project Page](https://github.com/Tongyi-MAI/Z-Image)]
 
+**Distribution Matching Distillation Meets Reinforcement Learning** \
+[[Paper](https://arxiv.org/pdf/2511.13649)]
+
 
 ## ✨ Latent Domain Applications
 
