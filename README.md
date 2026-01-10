@@ -21,6 +21,7 @@ A curated collection of **current and important research** in **Diffusion** and 
 - [Quantization](#quantization)
 - [Optimization](#optimization)
 - [Model Distillation](#model-distillation)
+- [Reinforcement Learning](#reinforcement-learning)
 - [Flow Matching Concepts](#flow-matching-concepts)
 - [Image Editing](#image-editing)
 - [Personalized - ID Preserving Image Generation](#personalized---id-preserving-image-generation)
@@ -92,11 +93,19 @@ A curated collection of **current and important research** in **Diffusion** and 
 
 
 
+## 📊 Reinforcement Learning
 
+**Distribution Matching Distillation Meets Reinforcement Learning** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2511.13649)]
+
+**X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again** ⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2507.22058)]
+
+**Flow-GRPO: Training Flow Matching Models via Online RL** ⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2505.05470)]
+[[Project Page](https://github.com/yifan123/flow_grpo)]
 
 ## 🌊 Flow Matching Concepts
-
-
 **FLOW MATCHING FOR GENERATIVE MODELING** ⭐⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2210.02747)]
 
