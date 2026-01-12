@@ -42,6 +42,10 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2503.06923)]
 [[Project Page](https://taylorseer.github.io/TaylorSeer/)]
 
+**Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2411.19108)]
+[[Project Page](https://github.com/ali-vilab/TeaCache)]
+
 ## 🤏 Quantization
 
 **SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION** ⭐⭐⭐⭐ \
