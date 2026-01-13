@@ -4,7 +4,7 @@ A curated collection of **current and important research** in **Diffusion** and 
 
 > 📌 **Note:** This collection is actively maintained with the most significant and up-to-date research in the field.
 
-### ⭐ Importance Rating
+### ⭐ Rating
 | Rating |
 |--------|
 | ⭐⭐⭐⭐⭐ |
@@ -18,7 +18,6 @@ A curated collection of **current and important research** in **Diffusion** and 
 ## Contents
 
 - [Inference Acceleration](#inference-acceleration)
-- [Quantization](#quantization)
 - [Optimization](#optimization)
 - [Model Distillation](#model-distillation)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -28,13 +27,20 @@ A curated collection of **current and important research** in **Diffusion** and 
 
 ## ⚡️ Inference Acceleration
 
+**Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2411.19108)]
+[[Project Page](https://github.com/ali-vilab/TeaCache)]
+
+**MagCache: Fast Video Generation with Magnitude-Aware Cache** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2506.09045)]
+[[Project Page](https://github.com/Zehong-Ma/MagCache)]
+
 **Training-free Diffusion Acceleration with Bottleneck Sampling** ⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2503.18940)]
 [[Project Page](https://tyfeld.github.io/BottleneckSampling.github.io/)]
 
 **NAMI: Efficient Image Generation via Progressive Rectified Flow Transformers** ⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2503.09242)]
-
 
 **SVDQUANT: ABSORBING OUTLIERS BY LOW-RANK COMPONENTS FOR 4-BIT DIFFUSION MODELS** ⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2411.05007)]
@@ -43,11 +49,8 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2503.06923)]
 [[Project Page](https://taylorseer.github.io/TaylorSeer/)]
 
-**Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model** ⭐⭐⭐⭐⭐ \
-[[Paper](https://arxiv.org/pdf/2411.19108)]
-[[Project Page](https://github.com/ali-vilab/TeaCache)]
 
-## 🤏 Quantization
+## ⚙️ Model Optimization
 
 **SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION** ⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2410.02367)]
@@ -56,12 +59,8 @@ A curated collection of **current and important research** in **Diffusion** and 
 **SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization** ⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2411.10958)]
 
-
 **SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-bit Training** ⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2505.11594)]
-
-
-## ⚙️ Model Optimization
 
 **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness** ⭐⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2205.14135)]
@@ -109,7 +108,9 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2505.05470)]
 [[Project Page](https://github.com/yifan123/flow_grpo)]
 
+
 ## 🌊 Flow Matching Concepts
+
 **FLOW MATCHING FOR GENERATIVE MODELING** ⭐⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2210.02747)]
 
@@ -137,16 +138,15 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2508.02324)]
 [[Project Page](https://github.com/QwenLM/Qwen-Image)]
 
+
 ## 👤 Personalized - ID Preserving Image Generation
 
 **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity** ⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2503.16418)]
 [[Project Page](https://bytedance.github.io/InfiniteYou/)]
 
-
 **WithAnyone: Towards Controllable and ID-Consistent Image Generation** ⭐⭐ \
 [[Project Page](https://github.com/Doby-Xu/WithAnyone)]
-
 
 **LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers** ⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2505.23758)]
