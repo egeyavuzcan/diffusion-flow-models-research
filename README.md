@@ -141,6 +141,10 @@ A curated collection of **current and important research** in **Diffusion** and 
 
 ## 👤 Personalized - ID Preserving Image Generation
 
+**PuLID: Pure and Lightning ID Customization via Contrastive Alignment** ⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2404.16022)]
+[[Project Page](https://github.com/ToTheBeginning/PuLID)]
+
 **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity** ⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2503.16418)]
 [[Project Page](https://bytedance.github.io/InfiniteYou/)]
