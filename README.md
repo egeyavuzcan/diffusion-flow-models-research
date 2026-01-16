@@ -17,6 +17,7 @@ A curated collection of **current and important research** in **Diffusion** and 
 
 ## Contents
 
+- [Milestone Models](#milestone-models)
 - [Inference Acceleration](#inference-acceleration)
 - [Optimization](#optimization)
 - [Model Distillation](#model-distillation)
@@ -24,6 +25,11 @@ A curated collection of **current and important research** in **Diffusion** and 
 - [Flow Matching Concepts](#flow-matching-concepts)
 - [Image Editing](#image-editing)
 - [Personalized - ID Preserving Image Generation](#personalized---id-preserving-image-generation)
+
+## ⭐ Milestone Models
+
+**Seedream 4.0: Toward Next-generation Multimodal Image Generation** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2509.20427)]
 
 ## ⚡️ Inference Acceleration
 
