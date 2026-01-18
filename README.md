@@ -31,6 +31,10 @@ A curated collection of **current and important research** in **Diffusion** and 
 **Seedream 4.0: Toward Next-generation Multimodal Image Generation** ⭐⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2509.20427)]
 
+**Qwen-Image** ⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2508.02324)]
+[[Project Page](https://github.com/QwenLM/Qwen-Image)]
+
 ## ⚡️ Inference Acceleration
 
 **Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model** ⭐⭐⭐⭐⭐ \
@@ -138,11 +142,6 @@ A curated collection of **current and important research** in **Diffusion** and 
 **HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer** ⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2505.22705)]
 [[Project Page](https://github.com/HiDream-ai/HiDream-E1)]
-
-
-**Qwen-Image** ⭐⭐⭐⭐ \
-[[Paper](https://arxiv.org/pdf/2508.02324)]
-[[Project Page](https://github.com/QwenLM/Qwen-Image)]
 
 
 ## 👤 Personalized - ID Preserving Image Generation
