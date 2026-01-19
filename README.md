@@ -35,6 +35,10 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2508.02324)]
 [[Project Page](https://github.com/QwenLM/Qwen-Image)]
 
+**Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2511.22699)]
+[[Project Page](https://github.com/Tongyi-MAI/Z-Image)]
+
 ## ⚡️ Inference Acceleration
 
 **Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model** ⭐⭐⭐⭐⭐ \
@@ -95,7 +99,6 @@ A curated collection of **current and important research** in **Diffusion** and 
 
 **Improved Distribution Matching Distillation for Fast Image Synthesis** ⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2405.14867)]
-
 
 **DECOUPLED DMD: CFG AUGMENTATION AS THE SPEAR, DISTRIBUTION MATCHING AS THE SHIELD** ⭐⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2511.22677)]
