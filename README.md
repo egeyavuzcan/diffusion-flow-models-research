@@ -39,6 +39,9 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2511.22699)]
 [[Project Page](https://github.com/Tongyi-MAI/Z-Image)]
 
+**FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2506.15742)]
+
 ## ⚡️ Inference Acceleration
 
 **Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model** ⭐⭐⭐⭐⭐ \
