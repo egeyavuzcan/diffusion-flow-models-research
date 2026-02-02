@@ -124,6 +124,10 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2505.05470)]
 [[Project Page](https://github.com/yifan123/flow_grpo)]
 
+**Improving Video Generation with Human Feedback** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2501.13918)]
+[[Project Page](https://gongyeliu.github.io/videoalign)]
+
 
 ## 🌊 Flow Matching Concepts
 
