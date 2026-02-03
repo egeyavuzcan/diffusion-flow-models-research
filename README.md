@@ -114,11 +114,8 @@ A curated collection of **current and important research** in **Diffusion** and 
 
 ## 📊 Reinforcement Learning
 
-**Distribution Matching Distillation Meets Reinforcement Learning** ⭐⭐⭐⭐⭐ \
-[[Paper](https://arxiv.org/pdf/2511.13649)]
-
-**X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again** ⭐⭐⭐⭐ \
-[[Paper](https://arxiv.org/pdf/2507.22058)]
+**Diffusion Model Alignment Using Direct Preference Optimization** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2311.12908)]
 
 **Flow-GRPO: Training Flow Matching Models via Online RL** ⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2505.05470)]
@@ -127,6 +124,12 @@ A curated collection of **current and important research** in **Diffusion** and 
 **Improving Video Generation with Human Feedback** ⭐⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2501.13918)]
 [[Project Page](https://gongyeliu.github.io/videoalign)]
+
+**Distribution Matching Distillation Meets Reinforcement Learning** ⭐⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2511.13649)]
+
+**X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again** ⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2507.22058)]
 
 
 ## 🌊 Flow Matching Concepts
