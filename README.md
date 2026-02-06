@@ -125,6 +125,9 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2501.13918)]
 [[Project Page](https://gongyeliu.github.io/videoalign)]
 
+**RewardDance: Reward Scaling in Visual Generation** ⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2509.08826)]
+
 **Distribution Matching Distillation Meets Reinforcement Learning** ⭐⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2511.13649)]
 
