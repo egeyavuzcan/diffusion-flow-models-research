@@ -125,6 +125,9 @@ A curated collection of **current and important research** in **Diffusion** and 
 [[Paper](https://arxiv.org/pdf/2501.13918)]
 [[Project Page](https://gongyeliu.github.io/videoalign)]
 
+**DanceGRPO: Unleashing GRPO on Visual Generation** ⭐⭐⭐⭐ \
+[[Paper](https://arxiv.org/pdf/2505.07818)]
+
 **RewardDance: Reward Scaling in Visual Generation** ⭐⭐⭐⭐ \
 [[Paper](https://arxiv.org/pdf/2509.08826)]
 
